@@ -1,6 +1,8 @@
 Project Details:
 I created two predictive models to perform a sentimental analysis IMDB Reviews.
 
+Due to the size of the data, please visit the Data Source to retrieve the data
+
 ## Why was Sentimental Analysis important to me?
  - I wanted to learn how people use their vocab to praise
 		What makes a Review Good / Bad
